@@ -1,0 +1,39 @@
+body 
+{
+    background-color: rgb(211, 162, 162);
+    background-image: repeating-linear-gradient(rgb(0,0,0,0.0),rgba(0,0,0,0.0)),url("assets/145.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.type img 
+{
+    max-width: 200px;
+    position: relative;
+}
+
+.type h5
+{
+    color: rgb(7, 7, 7);
+    font-size: 60;
+    text-align: center;
+}
+div 
+{
+    color:rgb(7, 7, 7);
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    height: 100%;
+    vertical-align: middle;
+}
+
+#button 
+{
+    padding: 10px 30px;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 20px 5px; 
+}
+
+
